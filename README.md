@@ -8,7 +8,7 @@ Helpful resources:
   
   https://www.youtube.com/watch?v=02KJouOjQ0c&t=331s
 
-How to setup
+How to setup:
 what do i know?? just run the script and hope it goes well 
 if you use windows god bless u
 
