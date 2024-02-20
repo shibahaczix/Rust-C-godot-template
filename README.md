@@ -9,7 +9,7 @@ Helpful resources:
   https://www.youtube.com/watch?v=02KJouOjQ0c&t=331s
 
 
-How to setup:
+How to setup:<br />
 note: you need to have basic knowlage of scons c++ rust and godot
 download nix
 run nix-shell
