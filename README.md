@@ -8,10 +8,11 @@ Helpful resources:
   
   https://www.youtube.com/watch?v=02KJouOjQ0c&t=331s
 
+
 How to setup:
-what do i know?? just run the script and hope it goes well 
-if you use windows god bless u
-
-
-also u need nix or nixos
-and run nix-shell
+note: you need to have basic knowlage of scons c++ rust and godot
+download nix
+run nix-shell
+modify main Sconstruct file and demo directory to have your customized name
+then run ./build.sh or do everything manually
+and you should have everything
