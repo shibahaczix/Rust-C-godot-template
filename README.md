@@ -17,3 +17,5 @@ modify main Sconstruct file and demo directory to have your customized name<br /
 and modify in src register_types and gdexamplesto be also your custom names
 then run ./build.sh or do everything manually<br />
 and you should have everything<br />
+
+also i do not recommend using c++ and rust together it would introduce a lot of complexities if youre working with a team
