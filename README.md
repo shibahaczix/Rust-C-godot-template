@@ -13,8 +13,8 @@ How to setup:<br />
 note: you need to have basic knowlage of scons c++ rust and godot<br />
 download nix<br />
 run nix-shell<br />
-modify main Sconstruct file and demo directory to have your customized name<br />
-and modify in src register_types and gdexamplesto be also your custom names
+modify main Sconstruct file, gdexample and demo directory to have your customized names<br />
+and modify in src register_types and gdexamples be also your custom names
 then run ./build.sh or do everything manually<br />
 and you should have everything<br />
 
